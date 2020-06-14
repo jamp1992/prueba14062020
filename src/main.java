@@ -4,5 +4,3 @@ public class main {
         System.out.println("Contenido rama HotFix");
     }
 }
-
-    git commit -a -m "Rama hotfix"
